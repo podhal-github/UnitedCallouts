@@ -126,7 +126,7 @@ namespace UnitedCallouts.Callouts
                         switch (_storyLine)
                         {
                             case 1:
-                                Game.DisplaySubtitle("~y~Seller: ~w~Oh, hello officer, I didn't hear you. How can I help? (1/5)", 5000);
+                                Game.DisplaySubtitle("~y~Suspect: ~w~Oh, hello officer, I didn't hear you. How can I help? (1/5)", 5000);
                                 _storyLine++;
                                 break;
                             case 2:
